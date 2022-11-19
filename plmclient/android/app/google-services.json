@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973243235494",
+    "project_id": "plmkecosystem",
+    "storage_bucket": "plmkecosystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973243235494:android:0286640d59f2ee586d0867",
+        "android_client_info": {
+          "package_name": "com.platinum.pilamokosuperappbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCogia8aJNz_VAtWOLmwt5rWiOJAvG6tcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973243235494-rign7kk4oo2efigu4e0f3rfogv61k9ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

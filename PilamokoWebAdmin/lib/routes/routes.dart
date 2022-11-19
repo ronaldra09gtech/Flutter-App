@@ -1,0 +1,9 @@
+const String defaultRoute = '/login';
+const String dashboard = '/dashboard';
+const String queuer = '/queuer';
+const String tlp = '/tlp';
+const String merchant = '/merchant';
+const String profile = '/profile';
+const String client = '/client';
+const String dfa = '/dfa';
+const String editprofile = '/editpassword';
